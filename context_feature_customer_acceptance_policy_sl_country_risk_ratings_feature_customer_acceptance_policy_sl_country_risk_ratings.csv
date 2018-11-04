@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Country risk ratings","Each country has a risk rating based on anti-money-laundering and anti-corruption considerations","SUCCESS","2018-11-04T14:04:03.468-05:00[America/Bogota]","0.0","0.04"
+"Country risk ratings","Countries are categorised as low, medium and high risk based on their risk rating","SUCCESS","2018-11-04T14:04:03.927-05:00[America/Bogota]","0.0","0.02"
+"Country risk ratings","Overall customer risk is based on country of origin and country of domicile","SUCCESS","2018-11-04T14:04:04.061-05:00[America/Bogota]","0.0","0.03"

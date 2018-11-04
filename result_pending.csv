@@ -1,0 +1,4 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Business Activities","An example of a high risk business","PENDING","2018-11-04T14:04:03.087-05:00[America/Bogota]","0.0","0.0"
+"Business Activities","A few more examples of a high risk businesses","PENDING","2018-11-04T14:04:03.094-05:00[America/Bogota]","0.0","0.01"
+"Monitoring new customers","Monitoring a new low risk customer","PENDING","2018-11-04T14:04:04.258-05:00[America/Bogota]","0.0","0.01"

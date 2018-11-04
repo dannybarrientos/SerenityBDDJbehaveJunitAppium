@@ -1,0 +1,6 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Business Activities","The business activity risk factor for an industry","ERROR","2018-11-04T14:03:51.453-05:00[America/Bogota]","0.0","0.74"
+"Business Activities","An example of a high risk business","PENDING","2018-11-04T14:04:03.087-05:00[America/Bogota]","0.0","0.0"
+"Business Activities","A few more examples of a high risk businesses","PENDING","2018-11-04T14:04:03.094-05:00[America/Bogota]","0.0","0.01"
+"Business Activities","The business activity risk factor for an established business","SUCCESS","2018-11-04T14:04:03.226-05:00[America/Bogota]","0.0","0.02"
+"Business Activities","Businesses established less than 2 years ago are considered higher risk","SUCCESS","2018-11-04T14:04:03.353-05:00[America/Bogota]","0.0","0.01"
